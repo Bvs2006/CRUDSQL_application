@@ -31,7 +31,7 @@ A simple **Java Swing desktop application** that allows users to write and execu
 ```
 Swing-MySQL-CRUD-App/
 │
-├── QueryExecutor.java
+├── Crudsql.java
 ├── README.md
 └── mysql-connector-j.jar
 ```
