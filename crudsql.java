@@ -8,7 +8,7 @@ public class crudsql extends JFrame implements ActionListener {
     JButton executeButton;
     String url = "jdbc:mysql://localhost:3306/mydatabase";
     String user = "root";
-    String password = "2006";
+    String password = "XXX";
     Connection con;
 
     public crudsql() {
